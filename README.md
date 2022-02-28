@@ -4,6 +4,8 @@
 
 ## Тестовая документация
 
+[План](https://github.com/DarcenRal/Diplom_3/blob/master/Documentation/Plan.md) автоматизации тестирования.
+
 ## Запуск приложения
 ### Подготовительный этап
 1. Установить и запустить IntelliJ IDEA;
