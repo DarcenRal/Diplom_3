@@ -2,7 +2,6 @@ package ru.netology.pages;
 
 import com.codeborne.selenide.SelenideElement;
 import ru.netology.data.CardInfo;
-
 import java.time.Duration;
 
 import static com.codeborne.selenide.Condition.exactText;
